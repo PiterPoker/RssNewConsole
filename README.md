@@ -8,7 +8,7 @@
 
 
 - [Консольное приложение](https://github.com/PiterPoker/RssNewConsole), выполняющее чтение новостей из RSS-источников и сохраняющее их в БД
-- [Web-приложение](https://github.com/PiterPoker/NewsRssWeb/tree/master/NewsRssWeb) - страница для отображения новостей из БД
+- [Web-приложение](https://github.com/PiterPoker/NewsRssWeb) - страница для отображения новостей из БД
 
 
 Иные требования:
